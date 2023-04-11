@@ -1,2 +1,2 @@
-# Projetos
-Projetos em JavaScript, Css e Html 
+# Projeto Calculadora
+Projeto em JavaScript, Css e Html 
